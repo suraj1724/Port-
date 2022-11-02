@@ -27,4 +27,11 @@
 .card #Details {
   font-size: 22px;
   width: 100%;
+}
+
+.reset button {
+  color: white;
+  background-color: rgb(68, 66, 66);
+  width: 100px;
+  padding: 3px;
 }/*# sourceMappingURL=style.css.map */
