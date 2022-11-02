@@ -1,0 +1,30 @@
+#navbarText a {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  color: red;
+}
+#navbarText #date {
+  font-size: 17px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: black;
+}
+
+.card {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+}
+.card .badge {
+  font-size: 20px;
+}
+.card .save button {
+  color: white;
+  background-color: rgb(68, 66, 66);
+  width: 100px;
+  padding: 3px;
+}
+.card #Details {
+  font-size: 22px;
+  width: 100%;
+}/*# sourceMappingURL=style.css.map */
